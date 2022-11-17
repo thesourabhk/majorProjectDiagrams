@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-17T10:00:33.923Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="hSPgpoqRd1VM_-K-2d5O" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-17T10:06:09.105Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="FfDQQLAk4StI8dbQbk5D" version="20.5.3" type="github">
   <diagram id="EGok0XlnsOkUb_3nYnCu" name="Page-1">
     <mxGraphModel dx="1038" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -123,8 +123,8 @@
             <mxPoint x="74.3529555376836" y="570" as="targetPoint" />
             <Array as="points">
               <mxPoint x="2510" y="375" />
-              <mxPoint x="2510" y="570" />
-              <mxPoint x="60" y="570" />
+              <mxPoint x="2510" y="590" />
+              <mxPoint x="60" y="590" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -148,6 +148,9 @@
         </mxCell>
         <mxCell id="ItMqKBE_S90DD2JkjEQu-22" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;BLOCK 3&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2350" y="110" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ItMqKBE_S90DD2JkjEQu-23" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-5/24/react-128.png;fontSize=21;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2451" y="400" width="128" height="128" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
